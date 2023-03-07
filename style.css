@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.mine-navbar {
+    background-color: #1789FC;
+    font-size: large;
+    
+}
+.mine-icon {
+    border-radius: 50%;
+}
+header{
+    width: 100%;
+    
+}
+body {
+    background-color: lightgrey;
+}
+footer {
+    background-color: lightslategrey;
+    width: 100%;
+    margin: 20px;
+    padding: 3px;
+    
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-family: palatino, Arial, Helvetica, sans-serif;
+   font-size: medium;
+   margin: 10px;
+   padding: 8px;
+}
+img {
+    margin: 10px;
+    padding: 10px;
+}
